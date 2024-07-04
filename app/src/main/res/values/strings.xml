@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Repaso semana3</string>
+    <string name="latiude_grados_cen">Latiude(Grados cen):</string>
+    <string name="longitud_grados_cent">Longitud(Grados cent)</string>
+    <string name="inclinaci_n_paneles_30">Inclinación paneles 30°</string>
+</resources>
