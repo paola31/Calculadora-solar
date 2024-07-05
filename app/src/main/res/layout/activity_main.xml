@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/sostenibilidad"
+    android:alpha=".75"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -81,7 +82,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="40dp"
-            android:backgroundTint="#6DB5AE"
+            android:backgroundTint="#4F7571"
             android:text="Calcular resultado" />
 
         <ImageView
@@ -96,7 +97,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="-80dp"
-            android:text="Resultado :  " />
+            android:background="#009688"
+            android:backgroundTint="#87AEAA"
+            android:text="Resultado :  "
+            android:textColor="#1B1515" />
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
